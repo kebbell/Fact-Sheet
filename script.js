@@ -48,3 +48,4 @@ const facts = [
             authorElement.classList.add('show');
         }, 500);
     });
+
